@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://winkeljo.github.io/piggame</string>
+		<string>https://winkeljo.github.io/piggame/PigGame.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://winkeljo.github.io/piggame/image</string>
+		<string>https://winkeljo.github.io/piggame/images/PigGameIcon58.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://winkeljo.github.io/piggame/fullsize-image</string>
+		<string>https://winkeljo.github.io/piggame/images/PigGameIcon80.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
