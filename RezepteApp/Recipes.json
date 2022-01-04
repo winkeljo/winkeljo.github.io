@@ -1,7 +1,7 @@
 [
     {
         "name":"Nudeln Bolognese",
-        "image":"bolognese_nadine",
+        "image":"bolognese_nadine.jpg",
         "prepTime":"15 Minuten",
         "cookTime":"20 Minuten",
         "totalTime":"35 Minuten",
@@ -40,7 +40,7 @@
     },
     {
         "name":"Paprikaschnitzel",
-        "image":"paprikaschnitzel_nadine",
+        "image":"paprikaschnitzel_nadine.jpg",
         "prepTime":"10 Minuten",
         "cookTime":"30 Minuten",
         "totalTime":"40 Minuten",
@@ -76,7 +76,7 @@
     },
     {
         "name":"Hirschgulasch",
-        "image":"hirschgulasch_gitti",
+        "image":"hirschgulasch_gitti.JPG",
         "prepTime":"45 Minuten",
         "cookTime":"1 Stunde und 45 Minuten",
         "totalTime":"2 Stunden und 15 Minuten",
@@ -123,7 +123,7 @@
     },
     {
         "name":"Nudeln mit Gemüsesoße",
-        "image":"nudeln_gemuesesauce_nadine",
+        "image":"nudeln_gemuesesauce_nadine.jpg",
         "prepTime":"30 Minuten",
         "cookTime":"15 Minuten",
         "totalTime":"45 Minuten",
