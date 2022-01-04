@@ -1,0 +1,171 @@
+[
+    {
+        "name":"Nudeln Bolognese",
+        "image":"bolognese_nadine",
+        "prepTime":"15 Minuten",
+        "cookTime":"20 Minuten",
+        "totalTime":"35 Minuten",
+        "cuisine":["Italienisch"],
+        "servings":4,
+        "vegetarian":false,
+        "vegan":false,
+        "highlights":
+        [
+            "Einfache Zubereitung",
+            "Geht schnell"
+        ],
+        "ingredients":
+        [
+            {"name": "Nudeln", "num": 500, "unit": "g"},
+            {"name": "Hackfleisch", "num": 350, "unit": "g"},
+            {"name": "Passierte Tomaten", "num": 250, "unit": "g"},
+            {"name": "Zwiebel", "num": 1},
+            {"name": "Knoblauch", "num": 3, "unit": "Zehen"},
+            {"name": "Paprika", "num": 1, "denom": 2},
+            {"name": "Tomate", "num": 1},
+            {"name": "Chili", "num": 1},
+            {"name": "Tomatenmark"},
+            {"name": "Rapsöl"},
+            {"name": "Salz"},
+            {"name": "Pfeffer"},
+            {"name": "Paprika scharf"},
+            {"name": "Paprika edelsüß"},
+            {"name": "Parmesan"}
+        ],
+        "directions":
+        ["Wasser für die Nudeln in einem Topf zum Kochen bringen.", "Zwiebel, Knoblauch, Paprika, Chili und Tomate klein hacken und alles mit Tomatenmark und Öl in einer Pfanne anbraten.", "Hackfleisch mit Salz, Pfeffer und Paprika würzen und mit in die Pfanne geben.", "Nudeln in das kochende Wasser geben.", "Soße mit passierten Tomaten ablöschen.", "Mit Parmesan anrichten"
+        ],
+        "additions":["Salat", "Baguette"],
+        "chef":"Nadine"
+    },
+    {
+        "name":"Paprikaschnitzel",
+        "image":"paprikaschnitzel_nadine",
+        "prepTime":"10 Minuten",
+        "cookTime":"30 Minuten",
+        "totalTime":"40 Minuten",
+        "cuisine":["Deutsch"],
+        "servings":2,
+        "vegetarian":false,
+        "vegan":false,
+        "highlights":
+        [
+            "Einfache Zubereitung",
+            "Geht schnell"
+        ],
+        "ingredients":
+        [
+            {"name": "Putenschnitzel", "num": 300, "unit": "g"},
+            {"name": "Sahne", "num": 250, "unit": "g"},
+            {"name": "Paprika", "num": 1},
+            {"name": "Zwiebel", "num": 1},
+            {"name": "Rapsöl"},
+            {"name": "Salz"},
+            {"name": "Pfeffer"},
+            {"name": "Paprika scharf"},
+            {"name": "Paprika edelsüß"},
+            {"name": "Chili Gewürz"},
+            {"name": "Suppenbrühe"},
+        ],
+        "directions":
+        [
+            "Putenschnitzel waschen, in Streifen schneiden und mit Salz, Pfeffer, Chili und Paprika würzen", "Zwiebel und Paprika in Würfel schneiden", "Fleisch, Zwiebel und Paprika in einer Pfanne anbraten. Mit der Brühe ablöschen und ca. 10-15 Minuten mit Deckel köcheln lassen", "Zum Schluss noch die Sahne dazugeben und nochmal ca. 5 Minuten köcheln lassen."
+        ],
+        "additions":["Kroketten", "Salat", "Nudeln"],
+        "chef":"Nadine"
+    },
+    {
+        "name":"Hirschgulasch",
+        "image":"hirschgulasch_gitti",
+        "prepTime":"45 Minuten",
+        "cookTime":"1 Stunde und 45 Minuten",
+        "totalTime":"2 Stunden und 15 Minuten",
+        "cuisine":["Deutsch"],
+        "servings":5,
+        "vegetarian":false,
+        "vegan":false,
+        "highlights":
+        [
+            "Festtagsessen"
+        ],
+        "ingredients":
+        [
+            {"name": "Hirschgulasch", "num": 1000, "unit": "g"},
+            {"name": "Pancetta", "num": 100, "unit": "g"},
+            {"name": "Schalotten", "num": 200, "unit": "g"},
+            {"name": "Selerie", "num": 100, "unit": "g"},
+            {"name": "Olivenöl", "num": 5, "unit": "Esslöffel"},
+            {"name": "Karotte", "num": 1},
+            {"name": "Knoblauch", "num": 3, "unit": "Zehen"},
+            {"name": "Tomatenmark", "num": 1, "unit": "Esslöffel"},
+            {"name": "Rotwein", "num": 250, "unit": "ml"},
+            {"name": "Portwein", "num": 250, "unit": "ml"},
+            {"name": "Gemüsebrühe", "num": 300, "unit": "ml"},
+            {"name": "Lorbeerblätter", "num": 3},
+            {"name": "Wacholderbeeren", "num": 8},
+            {"name": "Rosmarin", "num": 1, "unit": "Zweig"},
+            {"name": "Eingelegte Zitrone", "num": 1, "denom": 2},
+            {"name": "Johannisbeergelee", "num": 2, "unit": "Esslöffel"},
+            {"name": "Orangenmarmelade", "num": 2, "unit": "Esslöffel"},
+            {"name": "Meersalz"},
+            {"name": "schwarzer Pfeffer"},
+            {"name": "Petersilie"}
+        ],
+        "directions":
+        [
+            "Die Pancetta in kleine Würfel schneiden. Das Fleisch in mundgerechte Stücke schneiden. Schalotten in feine Streifen schneiden, Knoblauch hacken, Karotte und Selerie fein würfeln.",
+            "Speck in einem großen Schmortopf auslassen (für das Aroma), die Grieben herausnehmen und auf die Seite stellen.\nNun 2 Esslöffel Öl in den Topf geben und das Fleisch knusprig anbraten und herausnehmen, dazu die Fleischmenge in 3 Etappen braten - immer erst wenden, wenn die Unterseite angebräunt ist, dann salzen und pfeffern.",
+            "Nun die Schalotten kurz anbraten, Knoblauch, Karotten und Sellerie unter Rühren anschwitzen, Tomatenmark einrühren.\nDas Fleisch und den Bratensaft zurück in den Topf geben, alles kurz verrühren und Wein, Portwein und Brühe angießen. Zitronenschale, Kräuter und Gewürze dazugeben (praktisch ist ein Teefilterbeutel). Aufkochen lassen und zugedeckt ca. 1,5h schmoren.",
+            "Die Gewürze herausnehmen, das Gelee einrühren und die Speckgrieben (nach Gusto) wieder dazugeben. Noch weitere 15 Minuten schmoren und nochmal abschmecken. Etwas Petersilie darüber streuen."
+        ],
+        "additions":["Preisselbeeren", "Spätzle", "Rosenkohl", "Kroketten", "Salat", "Nudeln"],
+        "chef":"Gitti"
+    },
+    {
+        "name":"Nudeln mit Gemüsesoße",
+        "image":"nudeln_gemuesesauce_nadine",
+        "prepTime":"30 Minuten",
+        "cookTime":"15 Minuten",
+        "totalTime":"45 Minuten",
+        "cuisine":["Italienisch"],
+        "servings":2,
+        "vegetarian":true,
+        "vegan":true,
+        "highlights":
+        [
+            "Einfache Zubereitung",
+            "Geht schnell"
+        ],
+        "ingredients":
+        [
+            {"name": "Nudeln", "num": 250, "unit": "g"},
+            {"name": "Tomatenmark", "num": 25, "unit": "g"},
+            {"name": "Zucchini", "num": 1, "denom": 2},
+            {"name": "Zwiebel", "num": 1},
+            {"name": "Knoblauch", "num": 2, "unit": "Zehen"},
+            {"name": "Paprika", "num": 1},
+            {"name": "Tomaten klein", "num": 8},
+            {"name": "Frühlingszwiebel", "num": 3},
+            {"name": "Tomatenmark"},
+            {"name": "Rapsöl"},
+            {"name": "Salz"},
+            {"name": "Pfeffer"},
+            {"name": "Paprika scharf"},
+            {"name": "Paprika edelsüß"},
+            {"name": "Chili"},
+            {"name": "Mediterrane Gewürze"},
+            {"name": "Kräutergewürze"},
+            {"name": "Suppenbrühen-Pulver"}
+        ],
+        "directions":
+        [
+            "Das Wasser für die Nudeln in einem Topf zum Kochen bringen.",
+            "Das Gemüse waschen, entsprechend Schälen und in klein schneiden (würfenl oder in Streifen schneiden).",
+            "Das fertige Gemüse mit Olivenöl anbraten und nach Geschmack würzen.",
+            "Tomatenmark dazu geben und mit ca. 100 ml Wasser ablöschen und gut verrühren, damit sich alles gut vermischt. Anschließend die Soße für ca. 15 Minuten köcheln lassen und zwischendrin immer wieder umrühren.",
+            "Währenddessen das Nudelwasser salzen und die Nudeln hineingeben, bis der gewünschte Härtegrad erreicht ist (ca. 8 Minuten)."
+        ],
+        "additions":["Tomate Mozarella", "Baguette"],
+        "chef":"Nadine"
+    }
+]
