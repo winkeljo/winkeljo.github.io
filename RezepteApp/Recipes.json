@@ -167,5 +167,52 @@
         ],
         "additions":["Tomate Mozarella", "Baguette"],
         "chef":"Nadine"
+    },
+    {
+        "name":"Nudeln mit Gemüse",
+        "image":"nudeln_gemuesesauce_nadine.jpg",
+        "prepTime":"30 Minuten",
+        "cookTime":"15 Minuten",
+        "totalTime":"45 Minuten",
+        "cuisine":["Italienisch"],
+        "servings":2,
+        "vegetarian":true,
+        "vegan":true,
+        "highlights":
+        [
+            "Einfache Zubereitung",
+            "Geht schnell"
+        ],
+        "ingredients":
+        [
+            {"name": "Nudeln", "num": 250, "unit": "g"},
+            {"name": "Tomatenmark", "num": 25, "unit": "g"},
+            {"name": "Zucchini", "num": 1, "denom": 2},
+            {"name": "Zwiebel", "num": 1},
+            {"name": "Knoblauch", "num": 2, "unit": "Zehen"},
+            {"name": "Paprika", "num": 1},
+            {"name": "Tomaten klein", "num": 8},
+            {"name": "Frühlingszwiebel", "num": 3},
+            {"name": "Tomatenmark"},
+            {"name": "Rapsöl"},
+            {"name": "Salz"},
+            {"name": "Pfeffer"},
+            {"name": "Paprika scharf"},
+            {"name": "Paprika edelsüß"},
+            {"name": "Chili"},
+            {"name": "Mediterrane Gewürze"},
+            {"name": "Kräutergewürze"},
+            {"name": "Suppenbrühen-Pulver"}
+        ],
+        "directions":
+        [
+            "Das Wasser für die Nudeln in einem Topf zum Kochen bringen.",
+            "Das Gemüse waschen, entsprechend Schälen und in klein schneiden (würfenl oder in Streifen schneiden).",
+            "Das fertige Gemüse mit Olivenöl anbraten und nach Geschmack würzen.",
+            "Tomatenmark dazu geben und mit ca. 100 ml Wasser ablöschen und gut verrühren, damit sich alles gut vermischt. Anschließend die Soße für ca. 15 Minuten köcheln lassen und zwischendrin immer wieder umrühren.",
+            "Währenddessen das Nudelwasser salzen und die Nudeln hineingeben, bis der gewünschte Härtegrad erreicht ist (ca. 8 Minuten)."
+        ],
+        "additions":["Tomate Mozarella", "Baguette"],
+        "chef":"Nadine"
     }
 ]
