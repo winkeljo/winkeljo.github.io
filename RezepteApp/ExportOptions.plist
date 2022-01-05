@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>compileBitcode</key>
-	<true/>
+	<false/>
 	<key>destination</key>
 	<string>export</string>
 	<key>manifest</key>
@@ -13,7 +13,7 @@
 		<key>displayImageURL</key>
 		<string>https://winkeljo.github.io/RezepteApp/Logo60.JPG</string>
 		<key>fullSizeImageURL</key>
-		<string>https://winkeljo.github.io/RezepteApp/Logog1024.JPG</string>
+		<string>https://winkeljo.github.io/RezepteApp/Logo1024</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
